@@ -1,7 +1,6 @@
 # Autonomous Educational Game Development Pipeline
 
 ## Pain Point
-## Pain Point
 **The Origin Story:** A "LANero of the old school" dad wanted to create a safe, ad-free, and high-quality gaming portal for his daughters, Susana (3) and Julieta (coming soon). Existing sites were plagued with spam, aggressive ads, and deceptive buttons (dark patterns) that frustrated his toddler.
 
 **The Challenge:** Building a "clean, fast, and simple" portal was the easy part. The real challenge was populating it with **40+ educational games** tailored to specific developmental stages (0-15 years) without a team of developers. Manual development was too slow for a solo parent-developer, and maintaining consistency across dozens of games was becoming a nightmare.
@@ -69,10 +68,8 @@ TASK:
 ```
 
 ## Skills Needed
--   **FileSystem**: To read the queue/rules and write the game code.
--   **Terminal** / **Git**: To manage branches, commits, and merges.
--   **Reasoning**: To interpret abstract game ideas from the backlog into functional Javascript logic.
-
+-   **Git**: To manage branches, commits, and merges.
+  
 ## Related Links
 -   [Project Origin Story (LinkedIn)](https://www.linkedin.com/feed/update/urn:li:activity:7429739200301772800/) - How this project emerged after configuring OpenClaw.
 -   [El Bebe Games Repository](https://github.com/duberblockito/elbebe/tree/master) - Source code.
